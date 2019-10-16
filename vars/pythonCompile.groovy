@@ -6,5 +6,5 @@ def call()
 }
 def logmessage(String msg)
 {
- println(msg +"from logmessage")
+ println(msg +" from logmessage")
 }
